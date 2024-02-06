@@ -1,0 +1,4 @@
+[
+	{ "keys": ["Left"], "command": "open_if_directory_for_left_arrow_key" },
+	{ "keys": ["Right"], "command": "open_if_directory_for_right_arrow_key" }
+]
